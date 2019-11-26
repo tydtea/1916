@@ -10,3 +10,5 @@ function fn() {
 // fn.bind(obj)();
 const myFn = fn.bind(obj);
 myFn();
+
+我来过了
