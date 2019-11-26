@@ -1,1 +1,1 @@
-console.log("home.js")
+console.log("home.js,我很开心，我可以写自己的功能代码啦");
