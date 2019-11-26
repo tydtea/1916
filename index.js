@@ -2,7 +2,7 @@ const obj = {
     userName:"laotie"
 }
 function fn() {
-    a = 12;
+    a = 12;1
     console.log(this.userName,a);
 }
 // fn.call(obj);

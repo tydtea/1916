@@ -1,6 +1,6 @@
 class Desk{
     constructor(){
-        this.userName = "desk"
+        this.userName = "desk1"
     }
     run(that){
         console.log(that===this,this.userName);// box

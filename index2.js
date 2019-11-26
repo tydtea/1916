@@ -8,3 +8,4 @@ function fn(a) {
     }
 }
 fn(1)(2);
+console.log(1111111);
